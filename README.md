@@ -18,4 +18,4 @@
 
 ##
  
-  ![snake gif](https://github.com/ArturCarvalho0/ArturCarvalho0/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/ArturCarvalho0/ArturCarvalho0/blob/output/github-contribution-grid-snake.svg)
