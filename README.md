@@ -1,4 +1,4 @@
-### Olá, Eu sou o Artur Carvalho
+<h1 align="center">Olá, Eu sou o Artur Carvalho</h1>
 
 <div align="center">
      <a href="https://github.com/arturcarvalho0"></a>
