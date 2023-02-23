@@ -16,7 +16,11 @@
   <img align="center" alt="Artur-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-![Snake animation](https://github.com/arturcarvalho0/arturcarvalho0/blob/output/github-contribution-grid-snake.svg)
+<div align="center"> 
+ 
+  ![Snake animation](https://github.com/arturcarvalho0/arturcarvalho0/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 
 <!--
 **ArturCarvalho0/ArturCarvalho0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
