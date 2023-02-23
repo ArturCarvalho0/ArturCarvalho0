@@ -1,9 +1,9 @@
 ### Olá, Eu sou o Artur Carvalho
 
-<div align="center">
+<div>
      <a href="https://github.com/arturcarvalho0"></a>
-     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=arturcarvalho0&hide_border=true&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> &nbsp;
-     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturcarvalho0&layout=compact&count_private=true&hide_border=true&theme=dracula&show_icons=true">
+     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arturcarvalho0&hide_border=true&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> &nbsp;
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturcarvalho0&layout=compact&count_private=true&hide_border=true&theme=dracula&show_icons=true">
 </div>
 
 ##
