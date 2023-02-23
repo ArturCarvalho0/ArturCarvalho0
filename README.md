@@ -2,8 +2,8 @@
 
 <div  align="center">
      <a href="https://github.com/GabrielMorettii"></a>
-     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ArturCarvalho0&hide_border=true&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> &nbsp;
-     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturCarvalho0&layout=compact&count_private=true&hide_border=true&theme=dracula&show_icons=true">
+     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArturCarvalho0&hide_border=true&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> &nbsp;
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturCarvalho0&layout=compact&count_private=true&hide_border=true&theme=dracula&show_icons=true">
 </div>
 
 <!--
