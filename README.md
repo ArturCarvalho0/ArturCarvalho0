@@ -9,8 +9,6 @@
 
 ##
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9FA6B2&size=25&center=true&vCenter=true&width=1000&lines=These+are+my+main+skills)](https://git.io/typing-svg)
-
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Artur-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Artur-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -28,7 +26,5 @@
 </div>
 
 ##
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9FA6B2&size=25&center=true&vCenter=true&width=1000&lines=thanks+for+visiting,+bye+bye)](https://git.io/typing-svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=54B4D3&height=120&section=footer"/>
