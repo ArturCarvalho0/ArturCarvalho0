@@ -19,12 +19,5 @@
 </div>
 
 ##
-<div align="center">
-     
-  ![snake gif](https://github.com/ArturCarvalho0/ArturCarvalho0/blob/output/github-contribution-grid-snake.gif)
-     
-</div>
-
-##
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=54B4D3&height=120&section=footer"/>
