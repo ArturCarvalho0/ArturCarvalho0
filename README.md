@@ -1,8 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=54B4D3&height=120&section=header"/>
 
-  <div align="center">
-    <h1 align="center">Hello World <br> Hi 👏🏽, I'm Artur Carvalho</h1>
-  </div>
+  <h1 align="center">Hello World <br> Hi 👏🏽, I'm Artur Carvalho</h1>
 
 ##
 
